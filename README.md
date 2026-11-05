@@ -126,8 +126,3 @@ Five requests (on steps 01 and 03) were slower than 3 seconds. The slow requests
 ![Smoke test report](docs/smoke-report.png)
 -->
 
-## Notes on the test data
-
-- All passenger names and addresses are fictional.
-- Card numbers are the publicly documented test numbers for Visa, Amex and Diners Club. They are not real cards and BlazeDemo does not charge them.
-- Flight IDs and prices are read from each search result, so they are not hard-coded.
