@@ -1,0 +1,19 @@
+# JMeter raw results: recreated on every run
+results/*
+!results/.gitkeep
+
+# JMeter HTML reports: recreated on every run (add screenshots to docs/ instead)
+reports/*
+!reports/.gitkeep
+
+# Any JMeter result file saved outside results/ by mistake
+*.jtl
+
+# JMeter log: contains local usernames and folder paths
+jmeter.log
+
+# macOS
+.DS_Store
+
+# VS Code personal editor settings
+.vscode/

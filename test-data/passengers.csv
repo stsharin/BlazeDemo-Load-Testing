@@ -1,0 +1,4 @@
+fullName,address,city,state,zipCode,cardType,cardNumber,expMonth,expYear
+Alex Tester,123 Test Street,Testville,CA,12345,visa,4111111111111111,12,2030
+Maria Sample,456 Demo Avenue,Sampleton,NY,54321,amex,378282246310005,11,2031
+John Demo,789 Fake Road,Mockburg,TX,67890,dinersclub,30569309025904,10,2029
